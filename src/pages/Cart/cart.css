@@ -1,0 +1,15 @@
+.cart-wrapper {
+  justify-content: center;
+  display: flex;
+  align-items: center;
+  text-align: center;
+}
+.d-prod {
+  background: #ddd;
+  width: 50%;
+}
+.price {
+  background: yellow;
+  width: 50%;
+  height: 100vh;
+}
