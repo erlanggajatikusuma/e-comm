@@ -11,6 +11,7 @@ const Routes = () => {
                 <Route exact path="/">
                     <Home />
                 </Route>
+                {/* <Route path="/details/:post_id"> */}
                 <Route path="/details">
                     <Details />
                 </Route>
